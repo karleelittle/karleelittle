@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Karlee Little</h1>
-<h3 align="center">A eager full stack developer invested in bettering my craft</h3>
+<h3 align="center">An eager full stack developer invested in bettering my craft</h3>
 
 - 🌱 I’m currently learning **MERN full stack with Coding Dojo**
 
